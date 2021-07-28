@@ -2,13 +2,13 @@
 
 ![1_2Esr1uCL-6xwDBb5sCchmA@2x](https://user-images.githubusercontent.com/76595310/127244368-3e3d0974-8255-49a8-bccb-d5f10216bf94.jpeg)
 
-## What is problem?
+## What is the problem?
 
 * A company wants to test a new feature on the website. 
 
 * They want to determine which feature is useful for them or not by doing an A/B test.
 
-## Story of data
+## Story of the dataset
 
 * The dataset contains the information of the website. There is information such as the number of advertisements that users see and click, as well as earnings information from here.
 
